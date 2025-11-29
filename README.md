@@ -84,23 +84,4 @@ Tool	Usage
 Excel	Data cleaning, pivot modelling, grouping
 Excel Charts	Visual representations
 Dashboard Formatting	UI layout, slicers, KPI blocks
-📥 How to Use
 
-Download this repository
-
-Open the Excel file: loan_data_with_groups.xlsx
-
-Navigate to the DASHBOARD sheet
-
-Interact using filters, view segmented insights
-
-Read results in INSIGHTS + PROBLEM STATEMENT sheets
-
-📸 Screenshots
-
-(Insert screenshot images here after upload)
-
-If you like this project, ⭐ star the repo & connect with me for more analytics-based dashboards!
-
-Would you like me to generate a PDF case study version to upload along with this? 📄
-Just say "Generate PDF".
