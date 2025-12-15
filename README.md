@@ -84,4 +84,19 @@ Tool	Usage
 Excel	Data cleaning, pivot modelling, grouping
 Excel Charts	Visual representations
 Dashboard Formatting	UI layout, slicers, KPI blocks
+This Loan Analysis Dashboard successfully converts historical loan data into actionable business intelligence for banks and NBFCs.
+The insights generated help decision-makers design, price, and target a new loan scheme with higher profitability and lower risk.
+
+Key outcomes achieved:
+
+Enabled identification of high-potential customer segments (medium-income, bachelor-educated borrowers) for focused loan marketing.
+
+Provided clear visibility into high-demand loan categories such as education, medical, and venture loans.
+
+Highlighted income vs loan size behavior, supporting tier-based and premium loan product design.
+
+Revealed uniform interest-rate patterns across credit scores, opening scope for risk-based and credit-score-driven pricing models.
+
+Supported data-backed strategy formulation for new loan launches, customer targeting, and revenue optimization.
+
 
